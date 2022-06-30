@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/drawable/gradient_pink.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/drawable/tab_indicator.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/drawable/tab_indicator_pink.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_abc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_def.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_ghi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_jkl.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_mno.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_pqr.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_stu.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_vwx.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/activity_yz.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_abc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_def.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_ghi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_j_k_l.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_m_n_o.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_p_q_r.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_s_t_u.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_v_w_x.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/fragment_y_z.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/item_word.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/item_word_blue.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/item_word_green.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/item_word_grey.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WordEasyRemember/app/src/main/res/layout/item_word_pink.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

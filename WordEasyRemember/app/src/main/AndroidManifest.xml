@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wordEasyRemember.wordeasyremember">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WordEasyRemember">
+        <activity
+            android:name=".activities.ActivityYZ"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityVWX"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivitySTU"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityPQR"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityMNO"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityJKL"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityGHI"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityDEF"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ActivityABC"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
